@@ -17,3 +17,26 @@ p {
 	font-style: oblique;
 	color: #0D456F
 }
+body {
+	background-color: #E7F2C6;
+
+}
+ol {
+	font-family: Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-size: 14pt;
+	color: #53416B;
+	list-style-position: inside;
+}
+ul {
+	font-family: Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+	font-size: 14pt;
+	color: #D81A41;
+	list-style-position: inside;
+}
+a {
+	font-family: Helvetica, Arial, sans-serif;
+	color: #2F6942;
+	font-size: 12pt;
+}
