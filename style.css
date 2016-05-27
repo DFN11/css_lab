@@ -56,3 +56,6 @@ p:first-letter{
 	font-variant: small-caps;
 	color:#69740E;
 }
+#img-ol {
+	float: right;
+}
