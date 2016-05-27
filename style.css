@@ -37,6 +37,18 @@ ul {
 }
 a {
 	font-family: Helvetica, Arial, sans-serif;
-	color: #2F6942;
-	font-size: 12pt;
+	color: #EE521D;
+	font-size: 14pt;
+}
+a:visited {
+	text-decoration: line-through;
+	color: #DFA366;
+}
+a:hover {
+font-size: 18pt;
+}
+p:first-letter{
+	font-size: 22pt;
+    font-style: bolder;
+    color: #A51883;
 }
